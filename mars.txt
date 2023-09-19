@@ -1,5 +1,6 @@
-Cold and dry, but everything is my favourite colour
+Cold and dry, but everything is my favourite colour -- why
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 Consider Venus as a base
 git restore has replaced git head... be careful osv
+Hard to navigate without the mouse
