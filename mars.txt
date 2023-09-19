@@ -3,8 +3,5 @@ The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 Consider Venus as a base
 git restore has replaced git head... be careful osv
-<<<<<<< HEAD
 I would rather go to pluto
-=======
-Hard to navigate without the mouse
->>>>>>> aae4bc54150aa76cffa5b57622c6824b090e4717
+
